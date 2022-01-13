@@ -2,7 +2,9 @@ import React from 'react'
 
 const App = () => {
 return (
-  <h1>nikhil</h1>
+  <>
+  <h1>nikhil patil</h1>
+  </>
 )
 }
 export default App
