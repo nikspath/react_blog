@@ -1,9 +1,10 @@
 import React from 'react'
+import Header from './components/header/header'
 
 const App = () => {
 return (
   <>
-  <h1>nikhil patil</h1>
+  <Header/>
   </>
 )
 }
